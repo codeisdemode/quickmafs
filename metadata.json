@@ -1,0 +1,5 @@
+{
+  "name": "Socratic Math Tutor",
+  "description": "An AI-powered math tutor that guides users step-by-step through complex calculus and algebra problems. Upload a photo of a problem and get compassionate, Socratic guidance without just being given the answer.",
+  "requestFramePermissions": []
+}
